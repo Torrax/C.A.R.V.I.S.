@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# C.A.R.V.I.S. [!C.A.R.V.I.S.](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/CARVIS)
+# C.A.R.V.I.S. [![C.A.R.V.I.S.](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/CARVIS)
 > A Multifunction Robot Car Project
 
 ENTER DESCRIPTION HERE
